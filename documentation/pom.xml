@@ -36,8 +36,7 @@
 
 	<properties>
 		<asciidoctor.version>1.5.0</asciidoctor.version>
-		<svn.scmPubUrlStaging>https://svn.apache.org/repos/asf/deltaspike/site/trunk/content/staging/documentation/</svn.scmPubUrlStaging>
-		<svn.scmPubUrl>https://svn.apache.org/repos/asf/deltaspike/site/trunk/content/documentation/staging</svn.scmPubUrl>
+		<svn.scmPubUrl>https://svn.apache.org/repos/asf/deltaspike/site/trunk/content/staging/documentation</svn.scmPubUrl>
 		<svn.scmPubCheckoutDirectory>${project.build.directory}/co-site</svn.scmPubCheckoutDirectory>
 	</properties>
 
